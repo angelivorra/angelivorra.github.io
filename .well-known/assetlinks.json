@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.angelivorra.robotraca",
+      "sha256_cert_fingerprints": [
+        "CF:7E:01:72:05:18:19:D8:AD:A0:61:88:5B:15:32:FF:E4:57:02:7A:CE:C9:6F:C2:FE:84:2B:78:21:08:12:13"
+      ]
+    }
+  }
+]
